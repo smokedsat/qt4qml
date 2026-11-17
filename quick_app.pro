@@ -20,4 +20,6 @@ FORMS += \
 #    mainwindow.ui
 
 DISTFILES += \
-    MainWindow.qml \
+    MainPage1.qml \
+    MainPage2.qml \
+    MainWindow.qml
